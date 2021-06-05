@@ -19,6 +19,10 @@ at BigMart to finds out the properties of any product or store, which play a key
 * Seaborn
 * Scikit learn
 
+# Exploratory Data Analysis
+* Univariate
+* Bivariate
+
 # Regression Model
  Linear regression
                     
