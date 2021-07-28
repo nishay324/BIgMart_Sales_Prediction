@@ -1,6 +1,8 @@
 # Big Mart Sales Prediction
 It is a regression problem.
 
+![download](https://user-images.githubusercontent.com/81958811/127280667-d738c1fe-171f-4c5b-944b-0459121b86aa.jpg)
+
 # Problem statement
 The Data scientist have collected Big Mart sales data for 1559 products across 10 stores in different cities for the year 2009. 
 Now each prpduct has certain attributes that sets it apart from other products. Same is the case with each store.
